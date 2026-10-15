@@ -8,7 +8,7 @@ Projekt byl vyvinut jako praktické řešení **Úlohy B (Junior AI Prototyping 
 
 ## 🔗 Odkazy na projekt
 - **GitHub repozitář:** https://github.com/Asheryooo/indexlab-clientelo
-- **Živé demo (Vercel):** https://indexlab.vercel.app](https://indexlab-etf.vercel.app
+- **Živé demo (Vercel):** https://indexlab-etf.vercel.app
 
 ---
 
